@@ -5,7 +5,9 @@ I am a software engineer in training, passionate about learning new technologies
 Skills
 
 Programming Languages: JavaScript, Python, HTML, CSS, Ruby, SQL
+<br>
 Frameworks: Flask, Django, Mocha
+<br>
 Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <br>
 <br>
