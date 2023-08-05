@@ -12,9 +12,11 @@ Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <br>
 <br>
 <a href="https://app.daily.dev/walkrrrr"><img src="https://api.daily.dev/devcards/f7a4abc2c6ab4845b1bf9cc594403c60.png?r=mps" width="400" alt="Renee's Dev Card"/></a>
-<br>
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="walkrrr" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<br>
+
+
 <!--
 **walkrrr/walkrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
