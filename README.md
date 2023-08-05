@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer in training, passionate about learning new technologies and building innovative solutions. I am learning advanced JavaScript and want to become a back-end or full-stack engineer. I have completed certifications in Python, Power BI, Data Analytics, and Advanced CSS. I am an Apple snob, and my hobbies include closing my Apple Watch rings, shopping, and taking naps.
+I'm currently working towards my goal of becoming a software engineer. I'm passionate about exploring new technologies and coming up with innovative solutions. My main focus is on advanced JavaScript, and I hope to be a full-stack or back-end engineer someday. I'm also proud to have Python, Power BI, Data Analytics, and Advanced CSS certifications. On a more personal note, I'm a big fan of Apple products and love activities like completing my Apple Watch rings, shopping, and taking naps.
 
 Skills
 
@@ -20,9 +20,9 @@ Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <img style="padding:5px;" align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-
 <!-- and more such images with different URLs in src -->
 </p>
+
 
 <!--
 **walkrrr/walkrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
