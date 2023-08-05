@@ -16,8 +16,6 @@ Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <a href="https://www.buymeacoffee.com/walkrrr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
-const playlistId = '2yDx9t6LvPJeG0j5qrOwGH';
-
 <iframe
   title="Spotify Embed: Recommendation Playlist "
   src={`https://open.spotify.com/embed/playlist/2yDx9t6LvPJeG0j5qrOwGH?utm_source=generator&theme=0`}
