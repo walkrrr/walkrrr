@@ -16,7 +16,18 @@ Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <a href="https://www.buymeacoffee.com/walkrrr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
+const playlistId = '2yDx9t6LvPJeG0j5qrOwGH';
 
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/2yDx9t6LvPJeG0j5qrOwGH?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
 <!--
 **walkrrr/walkrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
