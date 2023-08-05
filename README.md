@@ -16,16 +16,14 @@ Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
 <a href="https://www.buymeacoffee.com/walkrrr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <br>
 
-<iframe
-  title="Spotify Embed: Recommendation Playlist "
-  src={`https://open.spotify.com/embed/playlist/2yDx9t6LvPJeG0j5qrOwGH?utm_source=generator&theme=0`}
-  width="100%"
-  height="100%"
-  style={{ minHeight: '360px' }}
-  frameBorder="0"
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
+<p float="left">
+<img style="padding:5px;" align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
+<!-- and more such images with different URLs in src -->
+</p>
+
 <!--
 **walkrrr/walkrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
