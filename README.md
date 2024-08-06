@@ -1,6 +1,6 @@
 ### 
 
-Hey there, welcome to my GitHub profile! I'm super excited about using data to gain insights and make smarter decisions. I'm striving to become a skilled data scientist and I'm passionate about honing my skills. I absolutely love playing around with Python and exploring its data manipulation and analysis capabilities. I'm also a big fan of Power BI and Microsoft Excel, which help me visualize and interpret data effectively. I find statistical analysis and analytics extremely fascinating and enjoy uncovering meaningful patterns and trends. Don't hesitate to follow me for updates on my data science journey, and I promise to follow you back. Let's go on this data-driven adventure together!
+Hey there, welcome to my GitHub profile! I'm super excited about using data to gain insights and make smarter decisions. I absolutely love playing around with Python and exploring its data manipulation and analysis capabilities. I'm also a big fan of Power BI and Microsoft Excel, which help me visualize and interpret data effectively. I find statistical analysis and analytics extremely fascinating and enjoy uncovering meaningful patterns and trends. Don't hesitate to follow me for updates on my data science journey, and I promise to follow you back. Let's go on this data-driven adventure together!
 
 Skills
 
