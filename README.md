@@ -47,13 +47,7 @@ I’m especially interested in **data visualization** as a way to translate comp
 
 ## 📚 Learning & Community
 
-<a href="https://app.daily.dev/walkrrrr">
-  <img
-    src="https://api.daily.dev/devcards/v2/kiOyAlf7ehFBTjbO4RkA9.png?r=trw"
-    width="300"
-    alt="R's Dev Card"
-  />
-</a>
+<a href="https://app.daily.dev/walkrrrr"><img src="https://api.daily.dev/devcards/v2/kiOyAlf7ehFBTjbO4RkA9.png?type=default&r=qp4" width="356" alt="R's Dev Card"/></a>
 
 ---
 
