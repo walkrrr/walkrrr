@@ -51,7 +51,7 @@ I’m especially interested in **data visualization** as a way to translate comp
   <img
     src="https://api.daily.dev/devcards/v2/kiOyAlf7ehFBTjbO4RkA9.png?r=trw"
     width="300"
-    alt="Renee's Dev Card"
+    alt="R's Dev Card"
   />
 </a>
 
