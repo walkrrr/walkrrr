@@ -1,30 +1,63 @@
-### 
+# Hi, I’m R 👋
 
-Hey there, welcome to my GitHub profile! I'm super excited about using data to gain insights and make smarter decisions. I absolutely love playing around with Python and exploring its data manipulation and analysis capabilities. I'm also a big fan of Power BI and Microsoft Excel, which help me visualize and interpret data effectively. I find statistical analysis and analytics extremely fascinating and enjoy uncovering meaningful patterns and trends. Don't hesitate to follow me for updates on my data science journey, and I promise to follow you back. Let's go on this data-driven adventure together!
+🎓 **MBA | HR Analyst → Aspiring Data Professional**  
+📊 Focused on **Python, data visualization, and analytics**
 
-Skills
+I’m an MBA-trained HR analyst transitioning into data-focused work, with a strong interest in using data to support decision-making and uncover insights. My background combines business context, people analytics, and hands-on programming as I prepare for graduate study in data science.
 
-Programming Languages: JavaScript, Python, HTML, CSS, Ruby, SQL
-<br>
-Frameworks: Flask, Django, Mocha
-<br>
-Tools: Git, GitHub, VSCode, Node.js, Juptyer, Pandas
-<br>
-<br>
-<a href="https://app.daily.dev/walkrrrr"><img src="https://api.daily.dev/devcards/f7a4abc2c6ab4845b1bf9cc594403c60.png?r=mps" width="400" alt="Renee's Dev Card"/></a>
+I’m especially interested in **data visualization** as a way to translate complex information into clear, actionable insights.
 
-<a href="https://www.buymeacoffee.com/walkrrr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<br>
+---
 
-<p float="left">
-<img style="padding:5px;" align="center" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<!-- and more such images with different URLs in src -->
-</p>
+## 🔍 Current Focus
+- Developing Python-based projects for data analysis and visualization  
+- Strengthening foundations in statistics, data cleaning, and exploratory analysis  
+- Applying analytics concepts to real-world and HR-related datasets  
+- Preparing for advanced study in data science  
 
+---
 
-<!--
-**walkrrr/walkrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Technical Skills
 
+**Programming:** Python  
+**Data & Analytics:** pandas • NumPy • data visualization  
+**Tools:** Jupyter Notebook • Git • GitHub • Excel  
 
+---
+
+## 🚀 Selected Projects
+
+### 📊 Data & Python Projects
+- **lipstick-inventory-analysis**  
+  Analyzed a personal inventory dataset using Python to practice data cleaning, exploration, and basic analysis.
+
+- **designaguessinggame**  
+  A Python number-guessing game demonstrating control flow, user input, and program logic.
+
+- **Learn_Regular_Expressions_by_Building_a_Password_Generator**  
+  Applied regular expressions in Python to generate and validate secure passwords.
+
+- **luhn-algorithm**  
+  Implemented the Luhn algorithm in Python to validate numeric sequences.
+
+- **Learn-Lambda-Functions-by-Building-a-Case-Converter-Program**  
+  Practiced functional programming concepts in Python using lambda functions.
+
+---
+
+## 📚 Learning & Community
+
+<a href="https://app.daily.dev/walkrrrr">
+  <img
+    src="https://api.daily.dev/devcards/v2/kiOyAlf7ehFBTjbO4RkA9.png?r=trw"
+    width="300"
+    alt="Renee's Dev Card"
+  />
+</a>
+
+---
+
+## 🌱 Looking Ahead
+I’m continuing to build projects that strengthen my skills in analytics, visualization, and statistical thinking as I work toward a career in data analytics or data science.
+
+📫 Thanks for stopping by — feel free to explore my projects!
