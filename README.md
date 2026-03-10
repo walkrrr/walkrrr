@@ -27,21 +27,19 @@ I’m especially interested in **data visualization** as a way to translate comp
 
 ## 🚀 Selected Projects
 
-### 📊 Data & Python Projects
-- **lipstick-inventory-analysis**  
-  Analyzed a personal inventory dataset using Python to practice data cleaning, exploration, and basic analysis.
+### 📊 Data Analysis
 
-- **designaguessinggame**  
-  A Python number-guessing game demonstrating control flow, user input, and program logic.
+**[Lipstick Inventory Analysis](https://github.com/walkrrr/lipstick-inventory-analysis)**  
+Exploratory analysis of a personal lipstick inventory dataset. Focused on data cleaning, organizing product attributes, and identifying trends within the collection.
 
-- **Learn_Regular_Expressions_by_Building_a_Password_Generator**  
-  Applied regular expressions in Python to generate and validate secure passwords.
+**Tools:** Python, pandas, Jupyter Notebook  
 
-- **luhn-algorithm**  
-  Implemented the Luhn algorithm in Python to validate numeric sequences.
+---
 
-- **Learn-Lambda-Functions-by-Building-a-Case-Converter-Program**  
-  Practiced functional programming concepts in Python using lambda functions.
+**[Tumbler Collection Analysis](https://github.com/walkrrr/tumbler-collection-analysis)**  
+Analyzed a dataset of collectible tumblers to identify patterns in brands, bottle sizes, and limited-edition items. Produced summary statistics and key insights from the collection data.
+
+**Tools:** Python, pandas, Jupyter Notebook
 
 ---
 
