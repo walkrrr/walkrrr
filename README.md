@@ -7,12 +7,15 @@ I’m an MBA-trained HR analyst transitioning into data-focused work, with a str
 
 I’m especially interested in **data visualization** as a way to translate complex information into clear, actionable insights.
 
+📌 **Latest project:** Spotify Listening Analysis — exploring streaming patterns with Python and data visualization.
+
 ---
 
 ## 🔍 Current Focus
+
 - Developing Python-based projects for data analysis and visualization  
 - Strengthening foundations in statistics, data cleaning, and exploratory analysis  
-- Applying analytics concepts to real-world and HR-related datasets  
+- Applying analytics concepts to real-world datasets  
 - Preparing for advanced study in data science  
 
 ---
@@ -27,29 +30,41 @@ I’m especially interested in **data visualization** as a way to translate comp
 
 ## 🚀 Selected Projects
 
-### 📊 Data Analysis
+### 🎧 Spotify Listening Analysis
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/walkrrr/spotify-listening-analysis)
 
-**[Lipstick Inventory Analysis](https://github.com/walkrrr/lipstick-inventory-analysis)**  
-Exploratory analysis of a personal lipstick inventory dataset. Focused on data cleaning, organizing product attributes, and identifying trends within the collection.
+Exploratory analysis of personal Spotify streaming history to identify listening patterns, top artists, and time-based trends.
 
-**Tools:** Python, pandas, Jupyter Notebook  
+**Highlights**
+- Listening heatmap by **day and hour**
+- Top artists and songs by listening time
+- Monthly listening trends
+- Music vs podcast comparison
+
+**Tools:** Python • pandas • Matplotlib • Seaborn • Jupyter Notebook
 
 ---
 
-**[Tumbler Collection Analysis](https://github.com/walkrrr/tumbler-collection-analysis)**  
-Analyzed a dataset of collectible tumblers to identify patterns in brands, bottle sizes, and limited-edition items. Produced summary statistics and key insights from the collection data.
+### 💄 Lipstick Inventory Analysis
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/walkrrr/lipstick-inventory-analysis)
 
-**Tools:** Python, pandas, Jupyter Notebook
+Exploratory analysis of a personal lipstick inventory dataset focused on organizing product attributes and identifying collection trends.
+
+**Tools:** Python • pandas • Jupyter Notebook
 
 ---
 
-## 📚 Learning & Community
+### 🥤 Tumbler Collection Analysis
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/walkrrr/tumbler-collection-analysis)
 
-<a href="https://app.daily.dev/walkrrrr"><img src="https://api.daily.dev/devcards/v2/kiOyAlf7ehFBTjbO4RkA9.png?type=default&r=qp4" width="356" alt="R's Dev Card"/></a>
+Analysis of a tumbler collection dataset exploring patterns in brands, bottle sizes, and limited-edition items.
+
+**Tools:** Python • pandas • Jupyter Notebook
 
 ---
 
 ## 🌱 Looking Ahead
+
 I’m continuing to build projects that strengthen my skills in analytics, visualization, and statistical thinking as I work toward a career in data analytics or data science.
 
 📫 Thanks for stopping by — feel free to explore my projects!
