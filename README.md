@@ -1,4 +1,4 @@
-# Hi, I’m R 👋
+# Hi, I’m Renee Walker-Robinson 👋
 
 🎓 **MBA | HR Analyst → Aspiring Data Professional**  
 📊 Focused on **Python, data visualization, and analytics**
