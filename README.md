@@ -1,11 +1,11 @@
-# Hi, I’m Renee Walker-Robinson 👋
+# Hi, I’m R 👋
 
-🎓 **MBA | HR Analyst → Aspiring Data Professional**  
-📊 Focused on **Python, data visualization, and analytics**
+🎓 **MBA | MS in Data Analytics | HR Analyst → Data Professional**  
+📊 Focused on **Python, R, Tableau, Alteryx, Data Visualization, and Analytics**
 
-I’m an MBA-trained HR analyst transitioning into data-focused work, with a strong interest in using data to support decision-making and uncover insights. My background combines business context, people analytics, and hands-on programming as I prepare for graduate study in data science.
+I’m an MBA-trained HR Analyst transitioning into Data Analytics, with a background that combines business, people analytics, and hands-on experience with data and programming. I’m currently pursuing an ** MS in Data Analytics at Kansas State University **.
 
-I’m especially interested in **data visualization** as a way to translate complex information into clear, actionable insights.
+I’m especially interested in **data visualization, data storytelling, data mining, and using analytics to translate complex information into clear, actionable insights.**
 
 📌 **Latest project:** Spotify Listening Analysis — exploring streaming patterns with Python and data visualization.
 
