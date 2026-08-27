@@ -3,7 +3,7 @@
 🎓 **MBA | MS in Data Analytics | HR Analyst → Data Professional**  
 📊 Focused on **Python, R, Tableau, Alteryx, Data Visualization, and Analytics**
 
-I’m an MBA-trained HR Analyst transitioning into Data Analytics, with a background that combines business, people analytics, and hands-on experience with data and programming. I’m currently pursuing an ** MS in Data Analytics at Kansas State University **.
+I’m an MBA-trained HR Analyst transitioning into Data Analytics, with a background that combines business, people analytics, and hands-on experience with data and programming. I’m currently pursuing an MS in Data Analytics at Kansas State University.
 
 I’m especially interested in **data visualization, data storytelling, data mining, and using analytics to translate complex information into clear, actionable insights.**
 
